@@ -83,3 +83,7 @@ button {
 .app__item-btn:hover {
 	opacity: 0.9;
 }
+
+.close{
+	text-decoration: line-through;
+}
